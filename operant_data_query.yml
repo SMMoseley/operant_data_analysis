@@ -1,0 +1,8 @@
+base_url: http://pholia.lab:4000/decide/api/trials/
+query:  
+  nocomment: true
+  subject: C14 
+  name: gng
+data_management:    
+  excluded_dates:
+    - 2022-02-03
