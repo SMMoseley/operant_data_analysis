@@ -4,9 +4,13 @@ Pulls trial data to a csv from the operant API database. Uses the csv files to a
 # Setup
 Create a venv environment
 `python3 -m venv venv`
+
 Once in the environment download pip-tools to sync the dependencies
+
 `python -m pip install pip-tools`
+
 `pip sync`
+
 Create a build directory to place the csv files into
 
 # Search for subject data on the API'
