@@ -1,0 +1,5 @@
+base_url: http://pholia.lab:4000/decide/api/trials/
+query:  
+  nocomment: true
+  subject: C293
+  name: gng
